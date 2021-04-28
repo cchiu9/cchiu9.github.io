@@ -1,0 +1,109 @@
+/* screen - landing-page */
+
+.landing-page {
+  background-color: var(--orange-yellow);
+  height: 742px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1158px;
+}
+.landing-page .dear-timmy-C61RwL {
+  background-color: transparent;
+  height: 70px;
+  left: 47px;
+  object-fit: cover;
+  position: fixed;
+  top: 143px;
+  width: 500px;
+}
+.landing-page .dearest-timmy-layer-C61RwL {
+  background-color: transparent;
+  height: 71px;
+  left: 50px;
+  object-fit: cover;
+  position: fixed;
+  top: 147px;
+  width: 500px;
+}
+.landing-page .enter-button-VyzZeT {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 122px;
+}
+.landing-page .enter-button-layer-VyzZeT {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 123px;
+}
+.landing-page .grooves-C61RwL {
+  background-color: transparent;
+  height: 58px;
+  left: 355px;
+  object-fit: cover;
+  position: fixed;
+  top: 588px;
+  width: 746px;
+}
+.landing-page .grooves-layer-C61RwL {
+  background-color: transparent;
+  height: 61px;
+  left: 356px;
+  object-fit: cover;
+  position: fixed;
+  top: 590px;
+  width: 746px;
+}
+.landing-page .group-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: 974px;
+  position: fixed;
+  top: 656px;
+  width: 179px;
+}
+.landing-page .moving-play-button-1-VyzZeT {
+  background-color: transparent;
+  height: 47px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 73px;
+}
+.landing-page .rainbow-bacon-C61RwL {
+  background-color: transparent;
+  height: 1355px;
+  left: -214px;
+  object-fit: cover;
+  position: fixed;
+  top: -187px;
+  width: 1675px;
+}
+.landing-page .shroom-1-C61RwL {
+  background-color: transparent;
+  height: 469px;
+  left: 352px;
+  object-fit: cover;
+  position: fixed;
+  top: 108px;
+  width: 507px;
+}
+.landing-page .sounds-1-C61RwL {
+  background-color: transparent;
+  height: 187px;
+  left: 796px;
+  object-fit: cover;
+  position: fixed;
+  top: 124px;
+  width: 203px;
+}

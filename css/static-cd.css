@@ -1,0 +1,74 @@
+/* screen - static-cd */
+
+.static-cd {
+  background-color: var(--orange-yellow);
+  height: 742px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1157px;
+}
+.static-cd .cd-1-still-C61RwL {
+  background-color: transparent;
+  height: 446px;
+  left: 585px;
+  object-fit: cover;
+  position: fixed;
+  top: 148px;
+  width: 448px;
+}
+.static-cd .group-2-C61RwL {
+  background-color: transparent;
+  height: 380px;
+  left: 109px;
+  position: fixed;
+  top: 214px;
+  width: 300px;
+}
+.static-cd .mw-love-C61RwL {
+  background-color: transparent;
+  height: 59px;
+  left: 105px;
+  object-fit: cover;
+  position: fixed;
+  top: 646px;
+  width: 950px;
+}
+.static-cd .mw-love-layer-C61RwL {
+  background-color: transparent;
+  height: 59px;
+  left: 110px;
+  object-fit: cover;
+  position: fixed;
+  top: 646px;
+  width: 950px;
+}
+.static-cd .rainbow-bacon-C61RwL {
+  background-color: transparent;
+  height: 1355px;
+  left: -258px;
+  object-fit: cover;
+  position: fixed;
+  top: -191px;
+  width: 1675px;
+}
+.static-cd .spotify-zUixHA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 380px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+.static-cd .user-stopper-zUixHA {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff80;
+  height: 300px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 300px;
+}
